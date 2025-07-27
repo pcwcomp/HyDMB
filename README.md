@@ -13,7 +13,6 @@ and use of the machines.<br>
 The core, the Computer/Mainboard is to build/produce at current state by the presence of many solutions<br>
 in a hybrid way as one development mainboard/computer.<br>
 This is a theoretical proposal for users and developers of M68k Amiga/based and compatible solutions.<br>
-the forks under Repositories for more informations/possibilities.<br>
 <br>
 # Hint: HyDMB
 Motorola Computer Architecture is no more developed any more, the Amiga++ Software and Hardware is commonly<br>
