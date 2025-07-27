@@ -10,3 +10,9 @@ At the moment no hardware gets build/created.<br>
 Feel free - Open a Issue by technical correctness of the issue.<br>
 <br>
 View/Read here and take a look at the forks under Repositoryies for more informations/possibilities.<br>
+<br>
+# Hint: HyDMB
+Motorola Computer Architecture is no more developed any more, the Amiga++ Software and Hardware is commonly<br>
+not the actual state of technologies. Software on mass is needed, hardware too and more.<br>
+All the intensive development work done and to do in now and future is best merged in a stablized fusion at best,<br>
+for all projects and developers + users.
