@@ -8,3 +8,5 @@ This is a theoretical proposal for users and developers of M68k Amiga/based and 
 At the moment no hardware gets build/created.<br>
 <br>
 Feel free - Open a Issue by technical correctness of the issue.<br>
+<br>
+View/Read this Repository for the more informations.<br>
