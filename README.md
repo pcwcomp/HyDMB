@@ -14,5 +14,5 @@ View/Read here and take a look at the forks under Repositoryies for more informa
 # Hint: HyDMB
 Motorola Computer Architecture is no more developed any more, the Amiga++ Software and Hardware is commonly<br>
 not the actual state of technologies. Software on mass is needed, hardware too and more.<br>
-All the intensive development work done and to do in now and future is best merged in a stablized fusion at best,<br>
+All the intensive development work done and to do now and in future is best merged in a stablized fusion at best,<br>
 for all projects and developers + users.
