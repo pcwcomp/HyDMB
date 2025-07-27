@@ -1,5 +1,8 @@
 # M68k+ Amiga/based - Hybrid development mainboard
 Fundamental technical-raw modular optimized mainboard for freed and featureful development/use<br>
+<br>
+Feel free - Open a Issue by technical correctness of the issue.<br>
+View/Read here and take a look at the forks under Repositories for more informations/possibilities.
 <br><br>
 # About: HyDMB
 This public domain content object and project "HyDMB" is serviced for further development by all.<br>
@@ -10,10 +13,7 @@ and use of the machines.<br>
 The core, the Computer/Mainboard is to build/produce at current state by the presence of many solutions<br>
 in a hybrid way as one development mainboard/computer.<br>
 This is a theoretical proposal for users and developers of M68k Amiga/based and compatible solutions.<br>
-<br>
-Feel free - Open a Issue by technical correctness of the issue.<br>
-<br>
-View/Read here and take a look at the forks under Repositories for more informations/possibilities.<br>
+the forks under Repositories for more informations/possibilities.<br>
 <br>
 # Hint: HyDMB
 Motorola Computer Architecture is no more developed any more, the Amiga++ Software and Hardware is commonly<br>
