@@ -3,7 +3,7 @@ Technical raw modular optimized mainboard for freed and featureful developments<
 <br><br>
 # About: HyDMB
 This public domain content object and project "HyDMB" is serviced for further development by all.<br>
-It presents the import fact of fusion and merge with native and hybrid solutions for more time in development<br>
+It presents the important fact of fusion and merge with native and hybrid solutions for more time in development<br>
 and use of the machines.<br>
 <br>
 # Explanation: HyDMB
