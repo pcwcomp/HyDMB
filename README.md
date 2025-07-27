@@ -1,12 +1,12 @@
 # M68k+ Amiga/based - Hybrid development mainboard
 Technical raw modular optimized mainboard for freed and featureful developments<br>
 <br><br>
-# About: HyDMB:
+# About: HyDMB
 This public domain content object and project "HyDMB" is serviced for further development by all.<br>
 It presents the import fact of fusion and merge with native and hybrid solutions for more time in development<br>
 and use of the machines.<br>
 <br>
-# Explanation: HyDMB:
+# Explanation: HyDMB
 The core, the Computer/Mainboard is to build/produce at current state by the presence of many solutions<br>
 in a hybrid way as one development mainboard/computer.<br>
 This is a theoretical proposal for users and developers of M68k Amiga/based and compatible solutions.<br>
