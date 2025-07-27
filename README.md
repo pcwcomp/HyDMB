@@ -19,7 +19,7 @@ View/Read here and take a look at the forks under Repositories for more informat
 Motorola Computer Architecture is no more developed any more, the Amiga++ Software and Hardware is commonly<br>
 not the actual state of technologies. Software on mass is needed, hardware too and more.<br>
 All the intensive development work done and to do now and in future is best merged in a stablized fusion at best,<br>
-for all projects and developers + users.
+for all projects and developers + users.<br>
 <br>
 # Opinion: HyDMB
 The reliable best solution is to set a open(-source) user friendly development mainboard free in the amiga<br>
