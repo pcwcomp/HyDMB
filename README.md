@@ -24,4 +24,7 @@ for all projects and developers + users.<br>
 # Opinion: HyDMB
 The reliable best solution is to set a open(-source) user friendly development mainboard free in the amiga<br>
 development-universe including stabelizing, corrections and advancements in a modular functional layout.<br>
-Its better to build a foundation and renewed compilation-like devel-mainboard and further developments.
+Its better to build a foundation and renewed compilation-like devel-mainboard and further developments.<br><br>
+<br>
+More, Procwork-Computer.com as its self has the opinion -> Fuse/Merge the best off all and any by legal correctness<br>
+to a (re-)new development mainboard with hybrid technologies.
