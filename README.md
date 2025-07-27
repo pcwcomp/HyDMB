@@ -14,7 +14,7 @@ At the moment no hardware gets build/created.<br>
 <br>
 Feel free - Open a Issue by technical correctness of the issue.<br>
 <br>
-View/Read here and take a look at the forks under Repositoryies for more informations/possibilities.<br>
+View/Read here and take a look at the forks under Repositories for more informations/possibilities.<br>
 <br>
 # Hint: HyDMB
 Motorola Computer Architecture is no more developed any more, the Amiga++ Software and Hardware is commonly<br>
