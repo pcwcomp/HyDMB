@@ -1,6 +1,6 @@
 List of external (non-pcwcomp) projects for the mainboard component fusion and merge:
 
-AmigaPCI/+   :Fundamental for further dvelopment (Repository is freeze-cloned on Github.com)
+AmigaPCI/+   :Fundamental for further hybrid development (Repository is freeze-cloned on Github.com)
 PiStorm/+    :arm64-hybrid solution (Repository is freeze-cloned on Github.com)
 (?CPU+)      :Native/compatible CPU (Fallback/etc) ()
 (PlipBox/+)  :Any time and situation networking (Repository is freeze-cloned on Github.com)
