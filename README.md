@@ -1,5 +1,5 @@
 # M68k+ Amiga/based - Hybrid development mainboard
-Technical raw modular optimized mainboard for freed and featureful developments<br>
+Fundamental technical-raw modular optimized mainboard for freed and featureful development/use<br>
 <br><br>
 # About: HyDMB
 This public domain content object and project "HyDMB" is serviced for further development by all.<br>
