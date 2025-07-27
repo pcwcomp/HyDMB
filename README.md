@@ -10,8 +10,8 @@ It presents the important fact of fusion and merge with native and hybrid soluti
 and use of the machines.<br>
 <br>
 # Explanation: HyDMB
-The core, the Computer/Mainboard is to build/produce at current state by the presence of many solutions<br>
-in a hybrid way as one development mainboard/computer.<br>
+The core - the Computer-Mainboard is to build/produce at current state by the presence of many solutions<br>
+in a hybrid way as one development-product.<br>
 This is a theoretical proposal for users and developers of M68k Amiga/based and compatible solutions.<br>
 <br>
 # Hint: HyDMB
