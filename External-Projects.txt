@@ -2,9 +2,8 @@ List of external (non-pcwcomp) projects for the mainboard component fusion and m
 
 AmigaPCI/+   :Fundamental for further dvelopment (Repository is freeze-cloned on Github.com)
 PiStorm/+    :arm64-hybrid solution (Repository is freeze-cloned on Github.com)
-(?CPU+)      :Native CPU/Solution (Fallback/etc) ()
-(PlipBox/+)  :
-(USB/+)      :
-(RTG/+)      :
-(ATG/+)      :
-...
+(?CPU+)      :Native/compatible CPU (Fallback/etc) ()
+(PlipBox/+)  :Any time and situation networking (Repository is freeze-cloned on Github.com)
+(USB/+)      :Clockport/etc?
+(RTG/+)      :...
+(ATG/+)      :...
