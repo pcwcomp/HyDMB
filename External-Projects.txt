@@ -1,4 +1,4 @@
-List of external (non-pcwcomp) projects for the mainboard component fusion and merge:
+Procwork Computer raw & theoretical HyDMB layout to modify etc.
 (In development and research)
 
 AmigaPCI/+        : Fundamental for further hybrid development (Repository is freeze-cloned on Github.com)
