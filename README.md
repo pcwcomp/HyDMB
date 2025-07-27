@@ -8,4 +8,4 @@ At the moment no hardware gets build/created.<br>
 <br>
 Feel free - Open a Issue by technical correctness of the issue.<br>
 <br>
-View/Read here and take a look at the forks under Repositorys for more informations/possibilites.<br>
+View/Read here and take a look at the forks under Repositorys for more informations/possibilities.<br>
