@@ -1,5 +1,5 @@
 # M68k+ Amiga/based - Hybrid development mainboard
-Fundamental technical-raw modular optimized mainboard for freed and featureful development/use<br>
+Fundamental technical-raw modular optimized mainboard for freed and featureful development/use.<br>
 UMA - Universal Machine Advancements is a public domain acronym and description.<br>
 <br>
 Feel free - Open a Issue by technical correctness of the issue.<br>
