@@ -2,7 +2,8 @@
 Fundamental technical-raw modular optimized mainboard for freed and featureful development/use<br>
 <br>
 Feel free - Open a Issue by technical correctness of the issue.<br>
-View/Read here and take a look at the forks under Repositories for more informations/possibilities.
+View/Read here and take a look at the forks under Repositories for more informations/possibilities.<br>
+UMA - Universal Machine Advancements is a public domain acronym and description.<br>
 <br><br>
 # About: HyDMB
 This public domain content object and project "HyDMB" is serviced for further development by all.<br>
